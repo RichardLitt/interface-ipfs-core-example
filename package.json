@@ -1,0 +1,18 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "bin": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "interface-ipfs-core": "^0.4.3",
+    "ipfs": "^0.14.1",
+    "remark": "^4.2.2",
+    "remark-lint": "^3.2.1"
+  }
+}
